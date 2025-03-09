@@ -266,7 +266,6 @@
     {"name": "[8] Dernic Fish [Lv. 110]","color": "#5c4462","icon": "fishing","visibility": "always","location": { "x": 869, "y": 94, "z": -897 }},
     {"name": "[12] Dernic Fish [Lv. 110]","color": "#5c4462","icon": "fishing","visibility": "always","location": { "x": 985, "y": 126, "z": -1090 }},
 
-    {"name": "[10] Copper [Lv. 0]","color": "#bd562a","icon": "mining","visibility": "always","location": { "x": 1060, "y": 78, "z": -920 }},
     {"name": "[4] Copper [Lv. 0]","color": "#bd562a","icon": "mining","visibility": "always","location": { "x": -1320, "y": 50, "z": -1600 }},
     {"name": "[10] Copper [Lv. 0]","color": "#bd562a","icon": "mining","visibility": "always","location": { "x": -545, "y": 67, "z": -1520 }},
     {"name": "[8] Copper [Lv. 0]","color": "#bd562a","icon": "mining","visibility": "always","location": { "x": -470, "y": 69, "z": -1675 }},
