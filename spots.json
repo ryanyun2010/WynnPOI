@@ -438,7 +438,6 @@
     {"name": "[11] Wheat [Lv. 0]","color": "#f0c060","icon": "farming","visibility": "always","location": { "x": -775, "y": 67, "z": -1735 }},
     {"name": "[3] Wheat [Lv. 0]","color": "#f0c060","icon": "farming","visibility": "always","location": { "x": -878, "y": 67, "z": -1708 }},
     {"name": "[4] Wheat [Lv. 0]","color": "#f0c060","icon": "farming","visibility": "always","location": { "x": -861, "y": 67, "z": -1664 }},
-    {"name": "[6] Wheat [Lv. 0]","color": "#f0c060","icon": "farming","visibility": "always","location": { "x": -540, "y": 67, "z": -1590 }},
     {"name": "[3] Wheat [Lv. 0]","color": "#f0c060","icon": "farming","visibility": "always","location": { "x": -845, "y": 53, "z": -1885 }},
     {"name": "[5] Wheat [Lv. 0]","color": "#f0c060","icon": "farming","visibility": "always","location": { "x": -825, "y": 66, "z": -1920 }},
     {"name": "[8] Wheat [Lv. 0]","color": "#f0c060","icon": "farming","visibility": "always","location": { "x": -775, "y": 66, "z": -1915 }},
