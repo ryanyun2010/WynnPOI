@@ -159,7 +159,7 @@
     {"name": "[8] Koi [Lv. 60]","color": "#cac8c4","icon": "fishing","visibility": "always","location": { "x": 870, "y": 44, "z": -5335 }},
     {"name": "[11] Koi [Lv. 60]","color": "#cac8c4","icon": "fishing","visibility": "always","location": { "x": -930, "y": 28, "z": -6145 }},
 
-    {"name": "[110] Gylia Fish [Lv. 70]","color": "#b856bd","icon": "fishing","visibility": "always","location": { "x": -160, "y": 27, "z": -5230 }},
+    {"name": "[110] Gylia Fish [Lv. 70]","color": "#b856bd","icon": "fishing","visibility": "always","location": { "x": -118, "y": 27, "z": -5175 }},
     {"name": "[4] Gylia Fish [Lv. 70]","color": "#b856bd","icon": "fishing","visibility": "always","location": { "x": -145, "y": 27, "z": -5245 }},
     {"name": "[8] Gylia Fish [Lv. 70]","color": "#b856bd","icon": "fishing","visibility": "always","location": { "x": -75, "y": 25, "z": -5380 }},
     {"name": "[20] Gylia Fish [Lv. 70]","color": "#b856bd","icon": "fishing","visibility": "always","location": { "x": -75, "y": 10, "z": -5415 }},
